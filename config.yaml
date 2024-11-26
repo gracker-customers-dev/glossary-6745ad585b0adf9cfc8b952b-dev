@@ -1,10 +1,8 @@
 projectName: Governance Frameworks
 jsonFilePath: ./input.json
 baseUrl: https://uno.ai
-portalHeading: Governance Frameworks Portal
-portalDescription: >-
-  Unlock the power of AI for your Governance, Risk, and Compliance needs with
-  Uno's advanced framework.
+portalHeading: Uno.ai - GRC Glossary
+portalDescription: Explore the most sophisticated Gen AI GRC Autonomous Agent Platform.
 portalTitle: Governance Frameworks - AI GRC Solutions
 searchPlaceholder: Search for GRC solutions...
 useAlphabetsCategory: true
@@ -13,7 +11,7 @@ logoLink: https://uno.ai/
 ctaText: Get Started
 aboutLink: https://uno.ai/about
 productsLink: https://uno.ai/products
-logoImgUrl: https://uno.ai/logo.png
+logoImgUrl: https://uno.ai/assets/img/uno/unoaiinvert.png
 ctaLink: https://uno.ai/get-started
 copyrightText: © 2023 Uno.ai. All rights reserved.
 faviconUrl: https://uno.ai/favicon.ico
