@@ -1,21 +1,23 @@
 projectName: Governance Frameworks
 jsonFilePath: ./input.json
 baseUrl: https://uno.ai
-portalHeading: Uno.ai - GRC Glossary
-portalDescription: Explore the most sophisticated Gen AI GRC Autonomous Agent Platform.
+portalHeading: Governance Frameworks Portal
+portalDescription: >-
+  World's most sophisticated Gen AI GRC copilot and autonomous agent platform,
+  transforming GRC from legacy to AI.
 portalTitle: Governance Frameworks - AI GRC Solutions
-searchPlaceholder: Search for GRC solutions...
+searchPlaceholder: Search for AI GRC solutions...
 useAlphabetsCategory: true
 homeLink: https://uno.ai/
 logoLink: https://uno.ai/
 ctaText: Get Started
 aboutLink: https://uno.ai/about
 productsLink: https://uno.ai/products
-logoImgUrl: https://uno.ai/assets/img/uno/unoaiinvert.png
+logoImgUrl: https://uno.ai/logo.png
 ctaLink: https://uno.ai/get-started
 copyrightText: © 2023 Uno.ai. All rights reserved.
 faviconUrl: https://uno.ai/favicon.ico
-googleTagManagerId: GTM-XXXXXX
+googleTagManagerId: ''
 pagesTitle:
   prefix: ''
   suffix: ''
@@ -33,22 +35,22 @@ socialLinks:
   - platform: Twitter
     url: https://twitter.com/unoai
   - platform: LinkedIn
-    url: https://www.linkedin.com/company/uno-ai
+    url: https://linkedin.com/company/unoai
   - platform: Facebook
-    url: https://www.facebook.com/unoai
+    url: https://facebook.com/unoai
 theme:
-  primaryColor: '#0056b3'
-  secondaryColor: '#f8f9fa'
+  primaryColor: '#007BFF'
+  secondaryColor: '#6c757d'
   backgroundColor: '#ffffff'
   textColor: '#212529'
-  accentColor: '#ffc107'
+  accentColor: '#FF5733'
 fonts:
-  - family: Roboto
+  - family: Helvetica, Arial, sans-serif
     weights:
       - 400
       - 500
       - 600
-  - family: Open Sans
+  - family: '''Roboto'', sans-serif'
     weights:
       - 500
       - 600
